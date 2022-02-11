@@ -1,5 +1,7 @@
 # lightnovel-rnn
 Generating Light Novel titles with a recurrent neural network
+## Work in Progress
+This is just a little side project for my amusement, so updates will be infrequent. Currently, the program does not check whether or not the generated titles already exist within the training dataset. The plan is to add some code to detect duplicates and remove them before they are output.
 
 ## How to run
 ### Locally
